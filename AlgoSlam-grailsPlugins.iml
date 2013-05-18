@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/hibernate-1.2.2">
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/hibernate-1.2.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/hibernate-1.2.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/hibernate-1.2.2/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/src/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/src/groovy" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/grails-app/services" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/grails-app/i18n" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/web-app/plugins" />
+    </content>
+    <content url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2">
+      <sourceFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/src/groovy" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/target/classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/target/test-classes" />
+      <excludeFolder url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/web-app/plugins" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="grails-1.2.2" level="application" />
+    <orderEntry type="module-library" exported="">
+      <library name="Grails User Library (AlgoSlam-grailsPlugins)">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.ivy2/cache/log4j/log4j/jars/log4j-1.2.14.jar!/" />
+          <root url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/lib" />
+          <root url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/quartz-0.4.2/lib" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/.grails/1.2.2/projects/AlgoSlam/plugins/tomcat-1.2.2/lib" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
